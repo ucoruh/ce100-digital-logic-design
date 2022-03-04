@@ -58,7 +58,7 @@ math: katex
 
 #### Spring Semester, 2021-2022
 
-Download [DOC](ce102-week-2.md_doc.pdf), [SLIDE](ce102-week-2.md_slide.pdf), [PPTX](ce102-week-2.md_slide.pptx)
+Download [SLIDE](ce102-week-2.md_slide.pdf)
 
 <iframe width=700, height=500 frameBorder=0 src="../ce102-week-2.md_slide.html"></iframe>
 
