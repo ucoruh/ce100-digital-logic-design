@@ -125,26 +125,9 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/ucoruh
-    - icon: fontawesome/brands/bitbucket
-      link: https://bitbucket.org/ucoruh/
-    - icon: fontawesome/regular/compass
-      link: https://www.scopus.com/authid/detail.uri?authorId=57218950743
-    - icon: fontawesome/regular/id-card
-      link: https://dblp.org/pid/230/0394.html
-    - icon: fontawesome/brands/docker
-      link: https://hub.docker.com/u/ucoruh/
-    - icon: fontawesome/brands/orcid
-      link: https://orcid.org/my-orcid?orcid=0000-0003-4193-8401
     - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/in/ugurcoruh/
-    - icon: fontawesome/regular/moon
-      link: https://publons.com/researcher/1540204/ugur-coruh/
-    - icon: fontawesome/brands/google
-      link: https://scholar.google.com/citations?user=KIU4ltMAAAAJ&hl=tr
-    - icon: fontawesome/regular/clipboard
-      link: https://avesis.erdogan.edu.tr/ugur.coruh
-    - icon: fontawesome/regular/user-circle
-      link: https://www.ugurcoruh.com/
+      link: https://www.linkedin.com/in/%C3%A7i%C4%9Fdem-sazak-turgut-b9317076/
+
       
 # Extensions
 markdown_extensions:
@@ -203,7 +186,7 @@ nav:
   - Home: index.md
   - Syllabus: syllabus/syllabus.md
   - Course Modules:
-    - Week-1 (Binary Systems): week-1/ce102-week-1.md
+    - Week-2 (Introduction to Digital Logic Design): week-2/ce102-week-2.md
   - License: license.md
   - Changelog: changelog/index.md
 
